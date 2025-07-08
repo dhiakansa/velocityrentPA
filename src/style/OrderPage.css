@@ -1,0 +1,28 @@
+body {
+  background: linear-gradient(to right, #f8d0e1, #d6e6f2);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: #ff5ca2;
+}
+
+section {
+  background-color: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+h1, h2 {
+  color: #d63384;
+}
+
+footer {
+  background-color: #f8f9fa;
+  padding: 2rem 1rem;
+  text-align: center;
+  margin-top: 3rem;
+}

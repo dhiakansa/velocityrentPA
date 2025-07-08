@@ -1,0 +1,128 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right, #f8d0e1, #d6e6f2);
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: #ff5ca2 !important;
+}
+
+.navbar-nav .nav-link {
+  color: #333;
+  transition: 0.3s;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #ff5ca2;
+}
+
+.hero {
+  background: url('/img/ppp.jpg') no-repeat center center/cover;
+  min-height: 90vh;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 2rem;
+}
+
+.hero-button {
+  background-color: #ff5ca2;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  border-radius: 30px;
+  color: white;
+  text-decoration: none;
+  transition: all 0.3s;
+}
+
+.hero-button:hover {
+  background-color: #e14c93;
+  color: white;
+}
+
+.highlight {
+  background-color: #ffeef6;
+  padding: 3rem 1rem;
+  text-align: center;
+}
+
+.highlight-brand {
+  color: #ff85bb;
+}
+
+footer {
+  background-color: #f8f9fa;
+  text-align: center;
+  padding: 2rem 1rem;
+  margin-top: 3rem;
+}
+
+.contact-section {
+  padding: 60px 0;
+}
+
+.form-control:focus {
+  box-shadow: none;
+  border-color: #ff7eb3;
+}
+
+.btn-custom {
+  background-color: #ff7eb3;
+  color: white;
+}
+
+.btn-custom:hover {
+  background-color: #e76f9f;
+}
+
+.fleet-card {
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+}
+
+.fleet-img {
+  width: 100%;
+  height: auto;
+}
+
+.service-section {
+  background-color: #fff2f8;
+  border-left: 5px solid #ff5ca2;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  border-radius: 0.75rem;
+}
+
+.service-icon {
+  font-size: 2rem;
+  color: #ff5ca2;
+  margin-right: 1rem;
+}
+
+.testimonial-card {
+  background-color: #fff2f8;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.testimonial-img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.testimonial-name {
+  font-weight: 600;
+}

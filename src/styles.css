@@ -1,0 +1,38 @@
+body {
+  background: linear-gradient(to right, #f8d0e1, #d6e6f2);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-brand.text-pink {
+  color: #ff7eb3 !important;
+}
+
+.contact-section {
+  padding: 60px 0;
+}
+
+.form-control:focus {
+  box-shadow: none;
+  border-color: #ff7eb3;
+}
+
+.btn-custom {
+  background-color: #ff7eb3;
+  color: white;
+  transition: 0.3s ease;
+}
+
+.btn-custom:hover {
+  background-color: #e76f9f;
+}
+
+footer {
+  background-color: #f8f9fa;
+  padding: 2rem 1rem;
+  text-align: center;
+  margin-top: 3rem;
+}
+
+footer p {
+  margin-bottom: 0.25rem;
+}

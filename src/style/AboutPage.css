@@ -1,0 +1,23 @@
+.navbar-brand {
+  font-weight: bold;
+  color: #ff5ca2;
+}
+
+.about-photo img {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.caption {
+  font-style: italic;
+  margin-top: 0.5rem;
+  color: #666;
+}
+
+footer {
+  background-color: #f8f9fa;
+  padding: 2rem 1rem;
+  margin-top: 3rem;
+}
