@@ -1,5 +1,5 @@
 # Figma Prototype
-[Klik here](https/proto/LHoVIcsAQDz4Ol8Uk0DbZd/desain-uas?node-id=3-57&t=OqJlKNUMDqbCMQSx-1)
+[Klik here]([https/proto/LHoVIcsAQDz4Ol8Uk0DbZd/desain-uas?node-id=3-57&t=OqJlKNUMDqbCMQSx-1](https://www.figma.com/proto/LHoVIcsAQDz4Ol8Uk0DbZd/desain-uas?node-id=1-66&t=XQ5M4EQ3g5YEoVNb-1))
 
 # React + Vite
 
