@@ -1,5 +1,5 @@
 # Figma Prototype
-[Klik here](https://s.id/aAt6s)
+[Klik here]((https://s.id/pigmaPrototype))
 
 # React + Vite
 
